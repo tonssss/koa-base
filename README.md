@@ -30,4 +30,6 @@ npm run start
 npm run build
 ```
 
+```
 # 浏览器输入localhost:3000/demo
+```
