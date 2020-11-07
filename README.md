@@ -29,3 +29,5 @@ npm run start
 # 发布环境
 npm run build
 ```
+
+# 浏览器输入localhost:3000/demo
